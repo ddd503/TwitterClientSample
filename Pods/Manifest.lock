@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.0)
+  - Kingfisher (4.0.0)
+  - SVProgressHUD (2.2)
+  - TwitterCore (3.1.0)
+  - TwitterKit (3.3.0):
+    - TwitterCore (>= 3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.0.0)
+  - Kingfisher (= 4.0)
+  - SVProgressHUD (= 2.2.0)
+  - TwitterKit (= 3.3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  Kingfisher: 5cd55fa124d1e731f1d4b04b02832e0e0432d1a9
+  SVProgressHUD: 3f37f3409ddb15f35c99315ae7dc33c474aa3256
+  TwitterCore: 644d59e75abccb26cf0a9050d2c4dea0e5412241
+  TwitterKit: a2e60ddcedbf54091eac6f27685ca7a87681e1d7
+
+PODFILE CHECKSUM: 6b9b1e230fd165f55f686fb96c184f48c934fb08
+
+COCOAPODS: 1.3.1

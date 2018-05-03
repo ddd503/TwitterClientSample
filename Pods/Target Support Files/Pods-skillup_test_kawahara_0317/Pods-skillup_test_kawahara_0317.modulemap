@@ -1,0 +1,6 @@
+framework module Pods_skillup_test_kawahara_0317 {
+  umbrella header "Pods-skillup_test_kawahara_0317-umbrella.h"
+
+  export *
+  module * { export * }
+}
